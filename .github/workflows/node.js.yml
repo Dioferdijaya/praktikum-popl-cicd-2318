@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: dioferdijaya/dioferdijaya_pop1_modul6:latest
+          tags: dioferdijaya/praktikum-popl-cicd-2318:latest
